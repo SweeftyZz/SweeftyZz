@@ -5,5 +5,5 @@
 - 📫 How to reach me ...
 
 
-[![Stats de SweeftyZz](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/SweeftyZz/github-readme-stats)
+[![Stats de SweeftyZz](https://github-readme-stats.vercel.app/api?username=SweeftyZz)](https://github.com/SweeftyZz/github-readme-stats)
 
